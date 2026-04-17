@@ -1,2 +1,23 @@
-# customer_churn_prediction
-Customer Churn Prediction using Machine Learning. Built a Random Forest model to predict customer churn based on behavioral data, including preprocessing, visualization, model training, evaluation, and a saved model (.pkl) for future predictions.
+# Customer Churn Prediction
+
+## Project Overview
+This project predicts whether a customer will churn or not using Machine Learning.
+
+## Files in this project
+- churn.ipynb
+- dataset.csv
+- churn_model.pkl
+- requirements.txt
+
+## How to run
+pip install -r requirements.txt
+
+jupyter notebook
+
+Open churn.ipynb and run all cells
+
+## Model Used
+Random Forest Classifier (scikit-learn)
+
+## Author
+Sooraj
